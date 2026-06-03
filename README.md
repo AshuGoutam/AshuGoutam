@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AshuGoutam
-- 👀 I’m interested in WEB3
-- 🌱 I’m currently learning CODING
-- 💞️ I’m looking to collaborate on IDEAS
-- 📫 How to reach me
+-  I’m interested in WEB3
+-  I’m currently learning CODING
+-  I’m looking to collaborate on IDEAS
+  reach me on
 -  TELEGRAM Ashu@85955
 -  Discord Ashu.monad
 -  tweeter Asgugoutam17
